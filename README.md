@@ -7,6 +7,8 @@
 
 #Video of the Line Tracking Rover Moving
 
-https://user-images.githubusercontent.com/90473880/202516355-eeaba269-0956-4dd1-a973-e2ef8b2a886e.mp4
+https://user-images.githubusercontent.com/90473880/202516945-06bfb151-6d54-4e9b-8505-3ec27aaee318.mp4
+
+
 
 
